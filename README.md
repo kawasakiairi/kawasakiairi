@@ -1,6 +1,6 @@
 ## 🌟 Hello, I'm AIRI 🌟
 
-![Profile Image](https://your-image-url.com/image.jpg)
+![Profile Image](image/icon.jpg)
 
 ## 👋 About Me
 <!--
