@@ -1,7 +1,7 @@
 ## 🌟 Hello, I'm AIRI 🌟
-
-![Profile Image](image/icon.jpg)
-
+<!--
+<img src="image/icon.png" alt="Profile Image" width="300">
+-->
 ## 👋 About Me
 <!--
 - 🏢 I work in the IT sector, focusing on AI research and development.
